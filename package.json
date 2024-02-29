@@ -1,0 +1,17 @@
+{
+  "name": "hackathon-bff",
+  "version": "1.0.0",
+  "description": "BFF for JS Mobile kickoff hackathon",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Brian/Jack/Ashlyn",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1"
+  }
+}
